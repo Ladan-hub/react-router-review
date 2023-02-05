@@ -10,7 +10,9 @@ function App() {
       <Route exact path="/"> 
       <Home />
       </Route>
-      
+      <Route path="/stocks">
+      <Stocks />
+      </Route>
       <Movies />
     </div>
   );
