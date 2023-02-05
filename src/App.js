@@ -17,6 +17,9 @@ function App() {
       <Route path="/movies">
       <Movies />
       </Route>
+      <Route > 
+        <h1>Page not found</h1>
+      </Route>
       </Switch>
     </div>
   );
