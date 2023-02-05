@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "You are going to practice using React Router v5. Although React Router v6 has been released, it is not yet in wide use, so knowing how to use [v5][router-v5] is still an important skill. Note that you will probably also want to get familiar with v6 at some point in your studies.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladan-hub/react-router-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladan-hub/react-router-review/issues"
+  },
+  "homepage": "https://github.com/Ladan-hub/react-router-review#readme"
 }
