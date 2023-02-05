@@ -13,7 +13,9 @@ function App() {
       <Route path="/stocks">
       <Stocks />
       </Route>
+      <Route path="/movies">
       <Movies />
+      </Route>
     </div>
   );
 }
